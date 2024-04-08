@@ -868,7 +868,11 @@ img {
 	}
 }
 
-@media (min-width:768px) and (max-width:819px) {}
+@media (min-width:768px) and (max-width:819px) {
+	.yu_1200 {
+		width: 100%;
+	}
+}
 
 @media (min-width:820px) and (max-width:1023px) {
 	.yu_1200 {
