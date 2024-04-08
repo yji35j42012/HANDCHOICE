@@ -873,6 +873,7 @@ img {
 	.yu_1200 {
 		width: 100%;
 	}
+	
 }
 
 @media (min-width:820px) and (max-width:1023px) {
@@ -880,9 +881,7 @@ img {
 		width: 100%;
 	}
 
-	.pc_head .pc_van {
-		padding-right: 0
-	}
+
 
 	.pc_head .pc_van a {
 		padding: 26px 16px 22px;
@@ -907,10 +906,18 @@ img {
 	}
 }
 
+@media (max-width:1140px) {
+	.pc_head .pc_van {
+		padding-right: 0
+	}
+}
+
 @media (min-width:1024px) and (max-width:1279px) {
 	.yu_1200 {
 		width: 100%;
 	}
+
+
 }
 
 @media (min-width:1280px) and (max-width:1439px) {
