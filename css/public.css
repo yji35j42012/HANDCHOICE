@@ -873,16 +873,13 @@ img {
 	.yu_1200 {
 		width: 100%;
 	}
-	
 }
 
 @media (min-width:820px) and (max-width:1023px) {
 	.yu_1200 {
 		width: 100%;
 	}
-
-
-
+	
 	.pc_head .pc_van a {
 		padding: 26px 16px 22px;
 		font-size: 16px;
